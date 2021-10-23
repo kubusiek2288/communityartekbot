@@ -1,1 +1,1 @@
-"# artekroleplaybot" 
+"# communitybot" 
